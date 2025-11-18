@@ -1,7 +1,12 @@
 
-
 ## 🖼️ Profile Banner
-<!-- Add your banner image here -->
+
+<p align="center">
+  <img src="https://i.ibb.co.com/ycdymCLv/Gemini-Generated-Image-wjtagowjtagowjta-1.png" alt="Profile Banner" width="1000" height="250">
+</p>
+
+
+
 
 ---
 
