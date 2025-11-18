@@ -1,35 +1,150 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/hriday33333/hriday33333/edit/main/README.md)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/hriday.khan.31521301)  
+# 👋 Hi, I'm **Your Name**
+### MERN Stack Developer | Frontend Enthusiast
 
-### Hi there 👋, I' am zakir Hasan Hriday
-#### Web Developer
-![Web Developer](https://scontent.fdac198-1.fna.fbcdn.net/v/t39.30808-6/477019594_1633092977288500_1689806550126582306_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEiP3sagZVz05dPas4t9doGClP95lqhXT8KU_3mWqFdPzP8PkxgaUTj2K9bDEqbdytgEo9tQDGfaOiB3H2apJSo&_nc_ohc=f2RLEDck2OIQ7kNvwEGqn4R&_nc_oc=AdleME7ZGqhnN2CLGmMZzhk_wjs3y5t-gXFrUon3Irgpa7tqAbjc9GtbzIMvpLGchNA&_nc_zt=23&_nc_ht=scontent.fdac198-1.fna&_nc_gid=HJEL2pUJEK4bFTJXIy6N3Q&oh=00_AfWIP837YLL72MfYU8bnhF8aJvdz5G0_DLiOp9ZoDzpdGA&oe=68B74D83)
+---
 
-I am a passionate web developer and programming enthusiast. Currently learning React.js and Next.js, with a strong interest in building creative projects and solving real-world problems. Skilled in JavaScript, Python, and modern web technologies. Always eager to collaborate on open-source projects and improve my coding journey.
+## 🖼️ Profile Banner
+<!-- Add your banner image here -->
 
-Skills:   REACT / JS / HTML / CSS
+---
 
-- 🔭 I’m currently working on Ideal Shool 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on github 
-- 🤔 I’m looking for help with My perentes 
-- 💬 Ask me about Web Development 
-- 😄 Pronouns: Hriday 
-- ⚡ Fun fact: coding 
+## 📍 Location & 📧 Email
+- **Location:** Your City, Country  
+- **Email:** yourname@example.com
 
+---
 
+## 👨‍💻 About Me
+A passionate web developer focused on creating clean, responsive, and user-friendly web applications. I enjoy learning new technologies and improving my development workflow.
 
+### 🔍 Currently Exploring
+- NEXT.JS  
+- Working on a tourism website project  
+- Improving backend logic with Express & MongoDB  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/hriday33333/hriday33333/edit/main/README.md)](https://github.com/ryo-ma/github-profile-trophy)
+## 🛠️ Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/hriday33333/hriday33333/edit/main/README.md)](https://github.com/anuraghazra/github-readme-stats)
+### **Frontend**
+<div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40"/>
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/hriday33333/hriday33333/edit/main/README.md&show_icons=true&count_private=true)  
+### **Backend**
+<div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40"/>
+</div>
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/hriday33333/hriday33333/edit/main/README.md/contributions?format=svg&private=true)  
+### **Tools & Others**
+<div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+</div>
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/hriday33333/hriday33333/edit/main/README.md)  
+---
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/hriday33333/hriday33333/edit/main/README.md)  
+## 🔗 Social Links
+- **LinkedIn:** Your LinkedIn URL  
+- **GitHub:** Your GitHub URL  
+- **Portfolio:** Your Portfolio URL  
 
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Streak](https://streak-stats.demolab.com/?user=yourusername)
+
+---
+
+# 📌 Pinned Repositories
+*(Replace with your projects)*
+
+### 1️⃣ **Project One**
+Short overview of the project.  
+**Live Link:** https://your-live-link.com  
+**Tech Stack:** React, Node.js, MongoDB
+
+### 2️⃣ **Project Two**
+Short overview of the project.  
+**Live Link:** https://your-live-link.com  
+**Tech Stack:** Next.js, Express
+
+### 3️⃣ **Project Three**
+Short overview of the project.  
+**Live Link:** https://your-live-link.com  
+**Tech Stack:** React, Firebase
+
+---
+
+# 📁 Repository README Template
+
+---
+
+# 🚀 Project Title
+
+## 📝 Overview
+A short description of the project and what problem it solves.
+
+---
+
+## 🖼️ Screenshot
+<!-- Add a screenshot here -->
+
+---
+
+## 🛠️ Tech Stack
+- React  
+- Node.js  
+- Express  
+- MongoDB  
+*(Add or remove as needed)*
+
+---
+
+## ⭐ Features
+- Feature 1  
+- Feature 2  
+- Feature 3  
+
+---
+
+## 📦 Dependencies
+```
+npm install react react-router-dom axios
+npm install express mongoose cors dotenv
+```
+
+---
+
+## 🧑‍💻 How to Run Locally
+```bash
+# Clone repository
+git clone https://github.com/yourname/repo-name
+cd repo-name
+
+# Install dependencies
+npm install
+
+# Run project
+npm run dev
+```
+
+---
+
+## 🔗 Live Links
+- **Live Website:** https://your-live-link.com  
+- **Client Repo:** https://github.com/yourname/client-repo  
+- **Server Repo:** https://github.com/yourname/server-repo  
+
+---
+
+💡 *Customize everything with your own information!*
