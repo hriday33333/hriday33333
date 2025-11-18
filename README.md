@@ -76,18 +76,23 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=hriday33333&theme=tokyonight&hide_border=true)
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=hriday33333&style=flat-square)
 
+## 📬 Connect with Me
+
+### 📧 Email
+- **Email**: [zakirhasanhriday@gmail.com](mailto:zakirhasanhriday@gmail.com)
+
+### 🌐 Social Media
+- [Dev.to](https://dev.to/md_kawserhamid_bappy)  
+- [LinkedIn](https://www.linkedin.com/in/kawserbappy2)  
+- [Facebook](https://www.facebook.com/kawserbappy2)  
+
+💬 Let's connect and discuss exciting opportunities!  
+💬 Ask me about **React** and **JavaScript**.
 
 
 
 ---
 
 
-## 🔗 Live Links
-- **Live Website:** https://your-live-link.com  
-- **Client Repo:** https://github.com/yourname/client-repo  
-- **Server Repo:** https://github.com/yourname/server-repo  
-
----
-
-💡 *Customize everything with your own information!*
