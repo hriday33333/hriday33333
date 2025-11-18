@@ -1,52 +1,62 @@
-# 👋 Hi, I'm **Your Name**
-### MERN Stack Developer | Frontend Enthusiast
 
----
 
 ## 🖼️ Profile Banner
 <!-- Add your banner image here -->
 
 ---
 
-## 📍 Location & 📧 Email
-- **Location:** Your City, Country  
-- **Email:** yourname@example.com
+## 👋 **Hi, I'm Zakir Hasan Hriday**  
+### 💻 **MERN Stack Developer | Frontend & JavaScript Enthusiast**
 
 ---
 
-## 👨‍💻 About Me
-A passionate web developer focused on creating clean, responsive, and user-friendly web applications. I enjoy learning new technologies and improving my development workflow.
+## 🧑‍💼 **About Me**  
+🚀 I am a passionate and dedicated web developer who loves building clean, modern, and user-friendly web applications.  
+🌱 I continuously learn new technologies to improve my skills and stay updated in the fast-evolving web ecosystem.  
+🎯 My focus is on writing efficient code, designing smooth user experiences, and creating meaningful digital products.
 
-### 🔍 Currently Exploring
-- NEXT.JS  
-- Working on a tourism website project  
-- Improving backend logic with Express & MongoDB  
 
 ---
 
-## 🛠️ Skills
 
-### **Frontend**
+
+### ⚡ **What I’m Currently Working On**
+- 📘 Exploring **Next.js** to level up my frontend skills  
+- 🌍 Developing a **Tourism Website** with modern UI/UX  
+- 🧩 Improving backend logic using **Express & MongoDB**  
+- 🎨 Enhancing UI design skills with **Tailwind CSS**  
+- 🔧 Building small projects to strengthen **JavaScript problem-solving**
+  
+
+---
+
+## 🎯 **Skills**
+
+### 🖥️ **Frontend**
 <div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50"/>
 </div>
 
-### **Backend**
+---
+
+### ⚙️ **Backend**
 <div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/>
 </div>
 
-### **Tools & Others**
+---
+
+### 🛠️ **Tools**
 <div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50"/>
 </div>
 
 ---
