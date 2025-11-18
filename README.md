@@ -67,88 +67,21 @@
 - **Portfolio:** Your Portfolio URL  
 
 ---
-
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-![Streak](https://streak-stats.demolab.com/?user=yourusername)
+
+| Top Languages | GitHub Stats |
+| ------------- | ------------ |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hriday33333&layout=compact&theme=tokyonight&hide_border=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hriday33333&show_icons=true&theme=tokyonight&hide_border=true) |
+
+![GitHub Streak](https://streak-stats.demolab.com?user=hriday33333&theme=tokyonight&hide_border=true)
+
+
+
+
+
 
 ---
 
-# 📌 Pinned Repositories
-*(Replace with your projects)*
-
-### 1️⃣ **Project One**
-Short overview of the project.  
-**Live Link:** https://your-live-link.com  
-**Tech Stack:** React, Node.js, MongoDB
-
-### 2️⃣ **Project Two**
-Short overview of the project.  
-**Live Link:** https://your-live-link.com  
-**Tech Stack:** Next.js, Express
-
-### 3️⃣ **Project Three**
-Short overview of the project.  
-**Live Link:** https://your-live-link.com  
-**Tech Stack:** React, Firebase
-
----
-
-# 📁 Repository README Template
-
----
-
-# 🚀 Project Title
-
-## 📝 Overview
-A short description of the project and what problem it solves.
-
----
-
-## 🖼️ Screenshot
-<!-- Add a screenshot here -->
-
----
-
-## 🛠️ Tech Stack
-- React  
-- Node.js  
-- Express  
-- MongoDB  
-*(Add or remove as needed)*
-
----
-
-## ⭐ Features
-- Feature 1  
-- Feature 2  
-- Feature 3  
-
----
-
-## 📦 Dependencies
-```
-npm install react react-router-dom axios
-npm install express mongoose cors dotenv
-```
-
----
-
-## 🧑‍💻 How to Run Locally
-```bash
-# Clone repository
-git clone https://github.com/yourname/repo-name
-cd repo-name
-
-# Install dependencies
-npm install
-
-# Run project
-npm run dev
-```
-
----
 
 ## 🔗 Live Links
 - **Live Website:** https://your-live-link.com  
