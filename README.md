@@ -94,7 +94,7 @@
 - **Email**: [zakirhasanhriday@gmail.com](mailto:zakirhasanhriday@gmail.com)
 
 ### 🌐 Social Media
-- [Dev.to](https://dev.to/md_kawserhamid_bappy)  
+- [Dev.to](https://dev.to/zakir_hasanhriday_824321)  
 - [LinkedIn](https://www.linkedin.com/in/kawserbappy2)  
 - [Facebook](https://www.facebook.com/kawserbappy2)  
 
