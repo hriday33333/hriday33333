@@ -95,8 +95,8 @@
 
 ### 🌐 Social Media
 - [Dev.to](https://dev.to/zakir_hasanhriday_824321)  
-- [LinkedIn](https://www.linkedin.com/in/kawserbappy2)  
-- [Facebook](https://www.facebook.com/kawserbappy2)  
+- [LinkedIn]()  
+- [Facebook](https://www.facebook.com/hriday.khan.31521301)  
 
 💬 Let's connect and discuss exciting opportunities!  
 💬 Ask me about **React** and **JavaScript**.
