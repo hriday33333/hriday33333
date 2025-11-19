@@ -1,9 +1,14 @@
+![](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/584863298_1848334969097632_6058526571109962415_n.png?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEoFLCCRyPDFCBI1-Zrz8vvtN3ewNKQ6Qm03d7A0pDpCYddDxsqOvK2bq90uhONqSN2O3jcSAoMHSzKydMMADT9&_nc_ohc=mCoH0qFHO0cQ7kNvwHvzHsT&_nc_oc=AdlKhICtE4Fr4uPtwRqR9Pturpt8IhEceNISjIxbwkRj5VBEx57OHRQafeso30UQqmA&_nc_zt=23&_nc_ht=scontent.fdac24-2.fna&_nc_gid=iv7s8TEU2A8pMwO3g263dA&oh=00_AfjLpLWUtnP0HB0WS5GeIpoJg4bc1w0wAofhczEVXW0reg&oe=6922E449)
 
-## 🖼️ Profile Banner
 
-<p align="center">
-  <img src="https://i.ibb.co.com/ycdymCLv/Gemini-Generated-Image-wjtagowjtagowjta-1.png" alt="Profile Banner" width="1000" height="250">
-</p>
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+
+
 
 
 
