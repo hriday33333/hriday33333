@@ -73,7 +73,7 @@
 
 ## 🔗 Social Links
 - **LinkedIn:** Your LinkedIn URL  
-- **GitHub:** Your GitHub URL  
+- **GitHub:** [Your GitHub URL](https://github.com/hriday33333)  
 - **Portfolio:** Your Portfolio URL  
 
 ---
