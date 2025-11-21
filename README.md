@@ -1,4 +1,4 @@
-![]([https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/584863298_1848334969097632_6058526571109962415_n.png?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEoFLCCRyPDFCBI1-Zrz8vvtN3ewNKQ6Qm03d7A0pDpCYddDxsqOvK2bq90uhONqSN2O3jcSAoMHSzKydMMADT9&_nc_ohc=mCoH0qFHO0cQ7kNvwHvzHsT&_nc_oc=AdlKhICtE4Fr4uPtwRqR9Pturpt8IhEceNISjIxbwkRj5VBEx57OHRQafeso30UQqmA&_nc_zt=23&_nc_ht=scontent.fdac24-2.fna&_nc_gid=iv7s8TEU2A8pMwO3g263dA&oh=00_AfjLpLWUtnP0HB0WS5GeIpoJg4bc1w0wAofhczEVXW0reg&oe=6922E449](https://media.licdn.com/dms/image/v2/D4E16AQHuHmzjxGzUDg/profile-displaybackgroundimage-shrink_350_1400/B4EZqmKN7WGoAc-/0/1763724311005?e=1765411200&v=beta&t=wJ7uDwfz987WgBg386ly25Lc0L0-KceehAvu_HDebBY))
+[![](https://media.licdn.com/dms/image/v2/D4E16AQHuHmzjxGzUDg/profile-displaybackgroundimage-shrink_350_1400/B4EZqmKN7WGoAc-/0/1763724311005?e=1765411200&v=beta&t=wJ7uDwfz987WgBg386ly25Lc0L0-KceehAvu_HDebBY)
 
 
 - 🔭 I’m currently working on this page. 
